@@ -1,0 +1,13 @@
+[core]
+  editor = vim
+[diff]
+  tool = vimdiff
+[difftool]
+  prompt = false
+[merge]
+  tool = vimdiff
+[user]
+  name = <<user.name>>
+  email = <<user.email>>
+[push]
+  default = simple
